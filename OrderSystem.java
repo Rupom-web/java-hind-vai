@@ -29,10 +29,11 @@ input.nextLine();
 System.out.println("Enter Quantity :");
 quantity=input.nextInt();
 input.nextLine();
+
 //print enter product,quantity,unitprice 
-System.out.println("Enter product "+productName);
+/*System.out.println("Enter product "+productName);
 System.out.println("Enter price "+unitPrice);
-System.out.println("Enter quantity "+quantity);
+System.out.println("Enter quantity "+quantity);*/
 
 
 try{

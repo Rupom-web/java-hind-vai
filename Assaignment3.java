@@ -41,3 +41,7 @@ Prevents program crash when invalid input is given.*/
 
 
 }
+/*
+ArrayList<data type>object name=new ArrayList<>()
+ArrayList<data type>object name=new ArrayList<>(Arrays.asList)
+ */
